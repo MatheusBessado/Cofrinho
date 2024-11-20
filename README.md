@@ -23,4 +23,4 @@ O sistema oferece as seguintes funcionalidades por meio de um menu interativo:
 ### 1. Clonar o repositório:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/cofrinho.git
+git clone https://github.com/MatheusBessado/cofrinho.git
